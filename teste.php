@@ -1,3 +1,5 @@
-idjwudjudwudwu
-wiwnudwd
-smisnq
+<?php
+
+echo "Hello world!";
+
+?>
